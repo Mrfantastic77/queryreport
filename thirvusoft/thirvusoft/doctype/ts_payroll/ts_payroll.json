@@ -28,7 +28,8 @@
   {
    "fieldname": "emp_name",
    "fieldtype": "Data",
-   "label": "empname"
+   "label": "empname",
+   "reqd": 1
   },
   {
    "fieldname": "from_date",
@@ -40,12 +41,14 @@
   {
    "fieldname": "to_date",
    "fieldtype": "Date",
-   "label": "todate"
+   "label": "todate",
+   "reqd": 1
   },
   {
    "fieldname": "absent_days",
    "fieldtype": "Int",
-   "label": "absentdays"
+   "label": "absentdays",
+   "reqd": 1
   },
   {
    "fieldname": "pf",
@@ -69,12 +72,13 @@
    "fieldname": "role",
    "fieldtype": "Select",
    "label": "role",
-   "options": "hr\ndeveloper\ntrainee\ndesigner"
+   "options": "hr\ndeveloper\ntrainee\ndesigner",
+   "reqd": 1
   }
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2021-12-16 12:07:02.569836",
+ "modified": "2021-12-17 12:06:38.291136",
  "modified_by": "Administrator",
  "module": "Thirvusoft",
  "name": "ts_payroll",

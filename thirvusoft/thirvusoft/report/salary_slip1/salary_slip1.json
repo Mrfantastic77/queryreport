@@ -1,0 +1,27 @@
+{
+ "add_total_row": 0,
+ "columns": [],
+ "creation": "2021-12-16 16:49:17.901377",
+ "disable_prepared_report": 0,
+ "disabled": 0,
+ "docstatus": 0,
+ "doctype": "Report",
+ "filters": [],
+ "idx": 0,
+ "is_standard": "Yes",
+ "modified": "2021-12-16 16:53:16.866262",
+ "modified_by": "Administrator",
+ "module": "Thirvusoft",
+ "name": "Salary Slip1",
+ "owner": "Administrator",
+ "prepared_report": 0,
+ "query": "",
+ "ref_doctype": "ts_payroll",
+ "report_name": "Salary Slip1",
+ "report_type": "Script Report",
+ "roles": [
+  {
+   "role": "System Manager"
+  }
+ ]
+}
